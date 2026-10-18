@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/sports", "destination": "/sports.html" },
+    { "source": "/mobile", "destination": "/mobile-auth.html" },
+    { "source": "/mobile-auth", "destination": "/mobile-auth.html" }
+  ]
+}
